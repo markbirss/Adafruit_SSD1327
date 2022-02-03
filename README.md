@@ -49,3 +49,5 @@ Note that the formatting output by `clang-format` is what the automated formatti
 Written by Limor Fried for Adafruit Industries.
 BSD license, check license.txt for more information
 All text above must be included in any redistribution
+
+https://www.waveshare.com/wiki/1.5inch_OLED_Module
